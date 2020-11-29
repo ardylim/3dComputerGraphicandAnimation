@@ -1,0 +1,40 @@
+C:\Users\Seniawati Hadi\Documents\Visual Studio 2012\Projects\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\bin\Debug\Programming Assignment 1 3DCGA.exe.config
+C:\Users\Seniawati Hadi\Documents\Visual Studio 2012\Projects\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Seniawati Hadi\Documents\Visual Studio 2012\Projects\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Seniawati Hadi\Documents\Visual Studio 2012\Projects\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\obj\Debug\Programming Assignment 1 3DCGA.vbproj.GenerateResource.Cache
+C:\Users\Seniawati Hadi\Documents\Visual Studio 2012\Projects\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\bin\Debug\Programming Assignment 1 3DCGA.exe
+C:\Users\Seniawati Hadi\Documents\Visual Studio 2012\Projects\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\bin\Debug\Programming Assignment 1 3DCGA.pdb
+C:\Users\Seniawati Hadi\Documents\Visual Studio 2012\Projects\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\bin\Debug\Programming Assignment 1 3DCGA.xml
+C:\Users\Seniawati Hadi\Documents\Visual Studio 2012\Projects\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\obj\Debug\Programming Assignment 1 3DCGA.exe
+C:\Users\Seniawati Hadi\Documents\Visual Studio 2012\Projects\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\obj\Debug\Programming Assignment 1 3DCGA.xml
+C:\Users\Seniawati Hadi\Documents\Visual Studio 2012\Projects\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\obj\Debug\Programming Assignment 1 3DCGA.pdb
+C:\Users\Sayuki\Downloads\Compressed\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\bin\Debug\Programming Assignment 1 3DCGA.exe.config
+C:\Users\Sayuki\Downloads\Compressed\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\obj\Debug\Programming Assignment 1 3DCGA.exe
+C:\Users\Sayuki\Downloads\Compressed\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\obj\Debug\Programming Assignment 1 3DCGA.xml
+C:\Users\Sayuki\Downloads\Compressed\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\obj\Debug\Programming Assignment 1 3DCGA.pdb
+C:\Users\Sayuki\Downloads\Compressed\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\bin\Debug\Programming Assignment 1 3DCGA.exe
+C:\Users\Sayuki\Downloads\Compressed\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\bin\Debug\Programming Assignment 1 3DCGA.pdb
+C:\Users\Sayuki\Downloads\Compressed\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\bin\Debug\Programming Assignment 1 3DCGA.xml
+C:\Users\Sayuki\Downloads\Compressed\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Sayuki\Downloads\Compressed\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Sayuki\Downloads\Compressed\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\obj\Debug\Programming Assignment 1 3DCGA.vbproj.GenerateResource.Cache
+C:\Users\Sayuki\Downloads\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\bin\Debug\Programming Assignment 1 3DCGA.exe.config
+C:\Users\Sayuki\Downloads\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\obj\Debug\Programming Assignment 1 3DCGA.exe
+C:\Users\Sayuki\Downloads\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\obj\Debug\Programming Assignment 1 3DCGA.xml
+C:\Users\Sayuki\Downloads\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\obj\Debug\Programming Assignment 1 3DCGA.pdb
+C:\Users\Sayuki\Downloads\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\bin\Debug\Programming Assignment 1 3DCGA.exe
+C:\Users\Sayuki\Downloads\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\bin\Debug\Programming Assignment 1 3DCGA.pdb
+C:\Users\Sayuki\Downloads\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\bin\Debug\Programming Assignment 1 3DCGA.xml
+C:\Users\Sayuki\Downloads\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Sayuki\Downloads\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Sayuki\Downloads\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\obj\Debug\Programming Assignment 1 3DCGA.vbproj.GenerateResource.Cache
+C:\Users\AJ\Desktop\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\bin\Debug\Programming Assignment 1 3DCGA.exe.config
+C:\Users\AJ\Desktop\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\obj\Debug\Programming Assignment 1 3DCGA.exe
+C:\Users\AJ\Desktop\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\obj\Debug\Programming Assignment 1 3DCGA.xml
+C:\Users\AJ\Desktop\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\obj\Debug\Programming Assignment 1 3DCGA.pdb
+C:\Users\AJ\Desktop\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\bin\Debug\Programming Assignment 1 3DCGA.exe
+C:\Users\AJ\Desktop\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\bin\Debug\Programming Assignment 1 3DCGA.pdb
+C:\Users\AJ\Desktop\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\bin\Debug\Programming Assignment 1 3DCGA.xml
+C:\Users\AJ\Desktop\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\AJ\Desktop\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\AJ\Desktop\Programming Assignment 1 3DCGA\Programming Assignment 1 3DCGA\obj\Debug\Programming Assignment 1 3DCGA.vbproj.GenerateResource.Cache
